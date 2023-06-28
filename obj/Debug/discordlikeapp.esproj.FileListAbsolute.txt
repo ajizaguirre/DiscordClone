@@ -1,0 +1,2 @@
+C:\Users\aleja\source\repos\DiscordLikeApp\DiscordLikeApp\obj\Debug\discordlikeapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\aleja\source\repos\DiscordLikeApp\DiscordLikeApp\obj\Debug\discordlikeapp.esproj.CoreCompileInputs.cache
